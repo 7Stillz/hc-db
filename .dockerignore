@@ -1,0 +1,10 @@
+# El contexto de build solo necesita el esquema, el deploy y los seeds.
+.git
+.gitignore
+.gitattributes
+.DS_Store
+**/.DS_Store
+docs
+scripts
+Dockerfile
+.dockerignore
